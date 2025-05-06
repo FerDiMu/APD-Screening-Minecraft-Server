@@ -22,3 +22,19 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Custom ignores
+logs/
+logs
+logs/*
+plugins/DPAC/eventlog/
+plugins/DPAC/eventlog
+plugins/DPAC/eventlog/*
+plugins/DPAC/recordings/
+plugins/DPAC/recordings
+plugins/DPAC/recordings/*
+.usercache.json
+.whitelist.json
+cache/
+cache/*
+cache
