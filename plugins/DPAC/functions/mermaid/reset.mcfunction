@@ -1,9 +1,12 @@
-gamerule sendCommandFeedback false
+execute at @p gamerule sendCommandFeedback false
 time set day
 npc select 414
 text clear
 text delete
 &di
+npc select 414
+npc command add -l -o npc select 414
+npc command add -l -o npc inventory
 text add ¡Hola! 
 text delay @c 60
 text sound @c set minecraft:minigames.music.talk
@@ -78,6 +81,3 @@ text add ¡Mucha suerte!
 text delay @c 60
 text sound @c set minecraft:minigames.music.talk
 text cmd @c add update_score @p
-text cmd @c add npc select 414
-text cmd @c add npc command add -l npc select 414
-text cmd @c add npc command add -l execute as @p run npc inventory
