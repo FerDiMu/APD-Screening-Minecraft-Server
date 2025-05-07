@@ -1,0 +1,664 @@
+# Do not edit anything here! Everything should be modified in-game.
+texts:
+  '108':
+    npc: 108
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+  '130':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 130
+  '135':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 135
+  '140':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 140
+  '145':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 145
+  '150':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 150
+  '155':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 155
+  '158':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 158
+  '163':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 163
+  '173':
+    messages:
+      '0':
+        delay: 40
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 173
+  '178':
+    npc: 178
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+        commands:
+        - scoreboard players add @p orquesta 1
+      '4':
+        delay: 60
+        text: §cCuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+  '17':
+    messages: {}
+    npc: 17
+  '183':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+        commands:
+        - scoreboard players add cosguardo orquesta 1
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 183
+  '188':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+        commands:
+        - scoreboard players add cosguardo orquesta 1
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+    npc: 188
+  '193':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+        commands:
+        - score_update cosguardo
+    npc: 193
+  '198':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+        commands:
+        - score_update cosguardo
+    npc: 198
+  '203':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+        commands:
+        - score_update cosguardo
+    npc: 203
+  '208':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: Esta canción me trae tantos recuerdos de cuando solo era una piratilla...
+      '1':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: Casi me haces llorar, grumete
+      '2':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: Bueno... Para continuar...
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: '&Tócame una canción en la que la nota más alta sea la primera'
+    npc: 208
+  '218':
+    messages:
+      '0':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Vaya, parece que llegamos a nuestro destino
+      '1':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: l Al final se me ha hecho super corto el viaje
+      '2':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Todo gracias a ti grumete!
+      '3':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hasta la vista!
+    npc: 218
+  '223':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+        commands:
+        - update_score cosguardo
+    npc: 223
+  '228':
+    messages: {}
+    npc: 228
+  '233':
+    messages: {}
+    npc: 233
+  '238':
+    messages: {}
+    npc: 238
+  '263':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.lostball.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: ¿Por qué no me diviertes tocando alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.lostball.hint
+        text: §cPara empezar me gustaría que me tocaras una canción con 3 notas distintas
+      '4':
+        delay: 60
+        sound: minecraft:minigames.lostball.talk
+        text: Cuando sepas qué canción es, toca el botón correspondiente en estos
+          bloques de colores
+        commands:
+        - update_score cosguardo
+    npc: 263
+  '359':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.music.talk
+        text: ¡Hola grumete!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: El viaje me está aburriendo mucho
+      '2':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¿Por qué no me diviertes poniendo alguna canción?
+      '3':
+        delay: 60
+        sound: minecraft:minigames.music.hint
+        text: 'Para empezar quiero una canción que siga el patrón: §cnota larga, nota
+          corta, nota corta, nota larga0'
+      '4':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Puedes probar las canciones en el tocadicos que hay en el centro del
+          barco
+      '5':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Haz click derecho en el tocadiscos con el disco en la mano
+      '6':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Para quitar el disco del tocadiscos vuelve a hacer click derecho sobre
+          él
+      '7':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Cuando tengas la canción, ponla en el tocadiscos que hay a mi lado
+      '8':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¡Mucha suerte!
+    npc: 359
+  '364':
+    messages:
+      '0':
+        delay: 40
+        sound: minecraft:minigames.music.talk
+        text: Esta canción me trae tantos recuerdos de cuando solo era una piratilla...
+      '1':
+        delay: 40
+        sound: minecraft:minigames.music.talk
+        text: Casi me haces llorar, grumete
+      '2':
+        delay: 40
+        sound: minecraft:minigames.music.talk
+        text: Bueno... Para continuar...
+      '3':
+        delay: 60
+        sound: minecraft:minigames.music.hint
+        text: 'Tócame una canción que siga el patrón: §cnota corta, nota larga, nota
+          larga, nota larga0'
+    npc: 364
+  '424':
+    messages:
+      '11':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Y que están metiendo en sus cofres todo lo valioso para llevárselo a
+          su tierra y venderlo
+      '22':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Cuando tengas los items haz click izquierdo sobre mí y arrastralos a
+          mi inventario
+      '12':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¡Es horrible, no podemos permitirlo!
+      '23':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¡Mucha suerte!
+        commands:
+        - update_score cosguardo
+        - npc select 424
+        - npc command add -l npc select 424
+        - npc command add -l execute as cosguardo run npc inventory
+      '13':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¿Por qué no me ayudas a coger de sus cofres todo lo que necesito?
+      '14':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Con esto podríamos recuperar parte de lo que nos han robado
+      '15':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Y además papá podría preparar el banquete
+      '16':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¿Qué te parece?
+      '17':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: '...'
+      '18':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¿Sí? ¡Genial!
+      '19':
+        delay: 60
+        sound: minecraft:minigames.music.hint
+        text: Mi padre me ha dejado las instrucciones en varias caracolas
+      '0':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¡Hola!
+      '1':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Puedes acercarte, que no como
+      '2':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Soy la sirena Iara y te quería pedir un favor
+      '3':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Esta noche, mi padre, el rey Morai, organiza un gran banquete aquí,
+          en el fondo del Mar Verde
+      '4':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Para sorprender a les invitades, quiere utilizar solo productos de nuestra
+          tierra, el Archipiélago Verdil
+      '5':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: ¡Será un acontecimiento histórico y me va a dejar ayudarle!
+      '6':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Ha hecho una lista de cosas imprescindibles y me ha encargado traer
+          todo lo necesario
+      '7':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Es la primera vez que me manda sola a una expedición y estoy super nerviosa
+      '8':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Solemos tener ayuda de otros animales para recoger las cosas que están
+          en tierra firme
+      '9':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Pero esta vez hay un problema...
+      '20':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Para escucharlas pulsa la tecla F mientras agarras la caracola con tu
+          mano derecha
+      '10':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Una oveja me ha chivado que han llegado unos piratas a la isla
+      '21':
+        delay: 60
+        sound: minecraft:minigames.music.talk
+        text: Para dejar de escucharlas vuelve a pulsar la tecla F
+    npc: 424
+  '522':
+    messages:
+      '0':
+        sound: minecraft:minigames.music.capitana-reset-6
+        text: 'Para empezar me gustaría escuchar una canción que tenga el patrón:
+          nota larga, nota corta, nota larga, nota larga'
+      '1':
+        sound: minecraft:minigames.music.capitana-reset-7
+        text: Puedes probar las canciones en el tocadicos que hay en el centro del
+          barco
+      '2':
+        sound: minecraft:minigames.music.capitana-reset-8
+        text: Para escuchar un disco, haz click derecho en el tocadiscos con el disco
+          en la mano
+      '3':
+        sound: minecraft:minigames.music.capitana-reset-9
+        text: Para quitar el disco del tocadiscos vuelve a hacer click derecho sobre
+          él
+      '4':
+        sound: minecraft:minigames.music.capitana-reset-10
+        text: Cuando tengas la canción, ponla en el tocadiscos que hay a mi lado
+      '5':
+        sound: minecraft:minigames.music.capitana-reset-11
+        text: ¡Mucha suerte!
+    npc: 522
+  '548':
+    messages:
+      '0':
+        sound: minecraft:minigames.music.talk
+        text: ¡Hola!
+      '1':
+        sound: minecraft:minigames.music.talk
+        text: ¿Me puedes traer dos margaritas del cofre?
+      '2':
+        sound: minecraft:minigames.music.talk
+        text: Puedes utilizar click izquierdo para abrir mi inventario
+    npc: 548
+dataVersion: 2

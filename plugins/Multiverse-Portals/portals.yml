@@ -1,0 +1,41 @@
+portals:
+  hub2cabin:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: cosguardo
+    location: -1.0,59.0,46.0:1.0,61.0,46.0
+    world: Minigames
+    destination: p:cabin2hub:e
+  cabin2hub:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: cosguardo
+    location: -315.0,67.0,-322.0:-315.0,69.0,-320.0
+    world: cabin
+    destination: e:Minigames:0.5,59.0,45.94162917893494:0.44992787:179.6999
+  pirates2hub:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: cosguardo
+    location: 27.0,64.0,-23.0:27.0,66.0,-21.0
+    world: piratebay
+    destination: p:hub2pirates
+  hub2pirates:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: cosguardo
+    location: -46.0,59.0,-1.0:-46.0,61.0,1.0
+    world: Minigames
+    destination: p:pirates2hub

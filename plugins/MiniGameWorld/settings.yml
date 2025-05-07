@@ -1,0 +1,24 @@
+settings:
+  message-prefix: §lMiniGameWorld§r
+  backup-delay: 60
+  debug-mode: false
+  isolated-chat: true
+  isolated-join-quit-message: true
+  join-sign-caption: '[MiniGame]'
+  leave-sign-caption: '[Leave MiniGame]'
+  scoreboard: true
+  scoreboard-update-delay: 10
+  remove-not-necessary-keys: false
+  min-leave-time: 3
+  start-sound: ENTITY_PLAYER_LEVELUP
+  finish-sound: ENTITY_PLAYER_LEVELUP
+  check-update: true
+  edit-messages: false
+  ingame-leave: false
+  template-worlds:
+  - piratebay_template
+  - music_template
+  - mermaid_template
+  join-priority: MAX_PLAYERS
+  party-invite-timeout: 60
+  party-ask-timeout: 60

@@ -1,0 +1,94 @@
+panels:
+  lostball_configuration:
+    perm: default
+    rows: '5'
+    title: '&4Configuración'
+    empty: glass_pane
+    item:
+      '4':
+        material: glass_pane
+      '11':
+        material: yellow_stained_glass
+        name: Día
+        lore:
+          - Cambia la hora del día
+          - 'a mañana dentro '
+          - del minijuego
+        commands:
+          - scoreboard players set Jugador hora 0
+      '12':
+        material: orange_stained_glass
+        commands:
+          - scoreboard players set Jugador hora 1
+        lore:
+          - 'Cambia la hora '
+          - 'del día a mediodía '
+          - dentro del minijuego
+        name: Mediodía
+      '13':
+        material: red_stained_glass
+        lore:
+          - 'Cambia la hora del día '
+          - 'a noche dentro '
+          - del minijuego
+        name: Noche
+        commands:
+          - scoreboard players set Jugador hora 2
+      '14':
+        material: blue_stained_glass
+        name: Medianoche
+        lore:
+          - 'Cambia la hora del día '
+          - 'a medianoche '
+          - dentro del minijuego
+        commands:
+          - scoreboard players set Jugador hora 3
+      '20':
+        material: birch_planks
+        commands:
+          - scoreboard players set Jugador tiempo 0
+        name: Despejado
+        lore:
+          - Cambia el tiempo
+          - 'a despejado dentro '
+          - del minijuego
+      '21':
+        material: jungle_planks
+        lore:
+          - Cambia el tiempo
+          - 'a lluvia dentro '
+          - del minijuego
+        name: Luvia
+        commands:
+          - scoreboard players set Jugador tiempo 1
+      '22':
+        material: acacia_planks
+        commands:
+          - scoreboard players set Jugador tiempo 2
+        lore:
+          - Cambia el tiempo
+          - 'a tormenta dentro '
+          - del minijuego
+        name: Tormenta
+      '29':
+        material: water_bucket
+        name: Activar música
+        lore:
+          - Activa la música
+          - dentro del minijuego
+        commands:
+          - scoreboard players set Jugador musica 0
+      '30':
+        material: bucket
+        name: Desactivar música
+        lore:
+          - Desactiva la música
+          - dentro del minijuego
+        commands:
+          - scoreboard players set Jugador musica 1
+      '31':
+        material: glass_pane
+      '32':
+        material: glass_pane
+    commands:
+      - minigame_config

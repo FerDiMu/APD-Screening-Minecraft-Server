@@ -1,0 +1,130 @@
+# Do not edit anything here! Everything should be modified in-game.
+data:
+- npc: 4
+  messages:
+    0:
+      delay: 40
+      text: ¡Hola!
+    1:
+      delay: 40
+      text: No me suena tu cara
+    2:
+      delay: 40
+      text: Seguro que no eres del pueblo
+    3:
+      delay: 40
+      text: ¿Te gustaría echar una partida de volley un día de estos?
+    4:
+      delay: 40
+      text: Es un deporte genial para hacer amigues
+    5:
+      delay: 40
+      text: Y encima puedes disfrutar de la playita
+- npc: 6
+  messages:
+    0:
+      delay: 60
+      text: ¿Te cuento un truquillo que utilizo para practicar mis lanzamientos?
+    1:
+      delay: 60
+      text: Me llevo a Tino al parque y juego a tirarle la pelota
+    2:
+      delay: 60
+      text: La recoge mucho más rápido que la mayoría de jugadores de beisbol
+    3:
+      delay: 60
+      text: ¡¿A que es genial?!
+- npc: 7
+  messages:
+    0:
+      delay: 40
+      text: ¿Viste el partido de ayer?
+    1:
+      delay: 60
+      text: ¡Fue una goleada histórica!
+    2:
+      delay: 40
+      text: Aún no me lo creo
+    3:
+      delay: 60
+      text: Mis amigues y yo solemos quedar para ver los partidos
+    4:
+      delay: 60
+      text: ¿Te apuntas al del próximo finde?
+    5:
+      delay: 60
+      text: Hay un campeonato que se celebra en la región
+    6:
+      delay: 60
+      text: ¡Dani va a participar!
+- npc: 5
+  messages:
+    0:
+      delay: 60
+      text: El tenis es el mejor deporte del mundo
+    1:
+      delay: 60
+      text: Si no piensas lo mismo ni te molestes en hablarme
+- npc: 8
+  messages:
+    0:
+      delay: 60
+      text: Estoy intentando convencer a Marisa
+    1:
+      delay: 60
+      text: Para que abran una piscina cubierta en el pueblo
+    2:
+      delay: 60
+      text: En invierno llueve mucho
+    3: Y siempre hay ganas de un buen bañito, ¿eh?
+- npc: 1
+  messages:
+    0:
+      delay: 60
+      text: ¿Me ayudas a encontrar mi pelota?
+    1:
+      delay: 60
+      text: Le di una patada muy fuerte el otro día
+    2:
+      delay: 60
+      text: Mientras practicaba para el campeonato
+    3:
+      delay: 80
+      text: Cuando iba a cogerla, vi cómo apareció alguien y se la llevó
+    4:
+      delay: 80
+      text: Fue todo tan rápido que no me fijé en quién era
+    5:
+      delay: 80
+      text: Este pueblo es muy pequeño, alguien debió ver al ladrón
+    6:
+      delay: 80
+      text: Puedes hablar con mis vecines si necesitas más información
+    7:
+      delay: 80
+      text: Cuando estés seguro de quién ha sido, recupera la pelota
+    8:
+      delay: 80
+      text: Para entregármela, accede a mi inventario haciendo click izquierdo
+    9:
+      delay: 80
+      text: ¡Muchas gracias!
+- npc: 3
+  times: {}
+  messages:
+    0:
+      delay: 60
+      text: ¿Eres el nuevo caddie que contrató papá?
+    1:
+      delay: 40
+      text: ¿No?...
+    2:
+      delay: 40
+      text: Pues vaya
+    3:
+      delay: 60
+      text: Bueno, si te acabas animando me avisas
+    4:
+      delay: 60
+      text: Necesito que alguien cargue con los palos de golf
+lastVersion: '1.2'

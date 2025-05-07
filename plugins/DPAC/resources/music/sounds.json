@@ -1,0 +1,92 @@
+{
+	"minigames.music.l-c-c-c": {
+		"sounds": [
+			"minigames/music/l-c-c-c"
+		],
+		"subtitle": "subtitles.minigames.music.l-c-c-c"
+	},
+	"minigames.music.c-c-c-c": {
+		"sounds": [
+			"minigames/music/c-c-c-c"
+		],
+		"subtitle": "subtitles.minigames.music.c-c-c-c"
+	},
+	"minigames.music.c-c-l": {
+		"sounds": [
+			"minigames/music/c-c-l"
+		],
+		"subtitle": "subtitles.minigames.music.c-c-l"
+	},
+	"minigames.music.c-l-c": {
+		"sounds": [
+			"minigames/music/c-l-c"
+		],
+		"subtitle": "subtitles.minigames.music.c-l-c"
+	},
+	"minigames.music.c-l-c-c": {
+		"sounds": [
+			"minigames/music/c-l-c-c"
+		],
+		"subtitle": "subtitles.minigames.music.c-l-c-c"
+	},
+	"minigames.music.c-l-c-l": {
+		"sounds": [
+			"minigames/music/c-l-c-l"
+		],
+		"subtitle": "subtitles.minigames.music.c-l-c-l"
+	},
+	"minigames.music.c-l-l": {
+		"sounds": [
+			"minigames/music/c-l-l"
+		],
+		"subtitle": "subtitles.minigames.music.c-l-l"
+	},
+	"minigames.music.c-l-l-l": {
+		"sounds": [
+			"minigames/music/c-l-l-l"
+		],
+		"subtitle": "subtitles.minigames.music.c-l-l-l"
+	},
+	"minigames.music.l-c-c-l": {
+		"sounds": [
+			"minigames/music/l-c-c-l"
+		],
+		"subtitle": "subtitles.minigames.music.l-c-c-l"
+	},
+	"minigames.music.l-c-l": {
+		"sounds": [
+			"minigames/music/l-c-l"
+		],
+		"subtitle": "subtitles.minigames.music.l-c-l"
+	},
+	"minigames.music.l-c-l-l": {
+		"sounds": [
+			"minigames/music/l-c-l-l"
+		],
+		"subtitle": "subtitles.minigames.music.l-c-l-l"
+	},
+	"minigames.music.l-l-c": {
+		"sounds": [
+			"minigames/music/l-l-c"
+		],
+		"subtitle": "subtitles.minigames.music.l-l-c"
+	},
+	"minigames.music.l-l-c-c": {
+		"sounds": [
+			"minigames/music/l-l-c-c"
+		],
+		"subtitle": "subtitles.minigames.music.l-l-c-c"
+	},
+	"minigames.music.l-l-l": {
+		"sounds": [
+			"minigames/music/l-l-l"
+		],
+		"subtitle": "subtitles.minigames.music.l-l-l"
+	},
+	"minigames.music.l-l-l-l": {
+		"sounds": [
+			"minigames/music/l-l-l-l"
+		],
+		"subtitle": "subtitles.minigames.music.l-l-l-l"
+	}
+}
