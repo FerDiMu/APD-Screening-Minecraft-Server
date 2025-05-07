@@ -38,3 +38,9 @@ plugins/DPAC/recordings/*
 cache/
 cache/*
 cache
+usercache.json
+banned-ips.json
+banned-players.json
+.console_history
+objetos.txt
+ops.json
