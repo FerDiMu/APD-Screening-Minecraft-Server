@@ -13,3 +13,4 @@ text add ¡Hasta la vista!
 text cmd @c add execute run stopsound @p * minigames.music.capitana-third-2
 text sound @c set minigames.music.capitana-third-3
 text cmd @c add update_score @p
+deop @p
