@@ -3,7 +3,6 @@ npc select 19
 text clear
 text delete
 &di
-op @p
 text add ¡Hola grumete @p!
 text sound @c set minecraft:minigames.music.capitana-reset-0
 text add Bienvenido al Galeón Marisma, el más grande de los siete mares
