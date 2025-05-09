@@ -18,4 +18,3 @@ npc select 15
 text clear
 text delete
 npc remove
-
