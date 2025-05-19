@@ -1,0 +1,17 @@
+{
+	"minigames.music.a-a-a-a": {"sounds": ["minigames/music/a-a-a-a"],"subtitle": "subtitles.minigames.music.a-a-a-a"}, 
+	"minigames.music.a-a-a-g": {"sounds": ["minigames/music/a-a-a-g"],"subtitle": "subtitles.minigames.music.a-a-a-g"}, 
+	"minigames.music.a-a-g-g": {"sounds": ["minigames/music/a-a-g-g"],"subtitle": "subtitles.minigames.music.a-a-g-g"}, 
+	"minigames.music.a-g-a-a": {"sounds": ["minigames/music/a-g-a-a"],"subtitle": "subtitles.minigames.music.a-g-a-a"}, 
+	"minigames.music.a-g-a-g": {"sounds": ["minigames/music/a-g-a-g"],"subtitle": "subtitles.minigames.music.a-g-a-g"}, 
+	"minigames.music.a-g-g-a": {"sounds": ["minigames/music/a-g-g-a"],"subtitle": "subtitles.minigames.music.a-g-g-a"}, 
+	"minigames.music.a-g-g-g": {"sounds": ["minigames/music/a-g-g-g"],"subtitle": "subtitles.minigames.music.a-g-g-g"}, 
+	"minigames.music.g-a-a-a": {"sounds": ["minigames/music/g-a-a-a"],"subtitle": "subtitles.minigames.music.g-a-a-a"}, 
+	"minigames.music.g-a-a-g": {"sounds": ["minigames/music/g-a-a-g"],"subtitle": "subtitles.minigames.music.g-a-a-g"}, 
+	"minigames.music.g-a-g-a": {"sounds": ["minigames/music/g-a-g-a"],"subtitle": "subtitles.minigames.music.g-a-g-a"}, 
+	"minigames.music.g-a-g-g": {"sounds": ["minigames/music/g-a-g-g"],"subtitle": "subtitles.minigames.music.g-a-g-g"}, 
+	"minigames.music.g-g-a-a": {"sounds": ["minigames/music/g-g-a-a"],"subtitle": "subtitles.minigames.music.g-g-a-a"}, 
+	"minigames.music.g-g-a-g": {"sounds": ["minigames/music/g-g-a-g"],"subtitle": "subtitles.minigames.music.g-g-a-g"}, 
+	"minigames.music.g-g-g-a": {"sounds": ["minigames/music/g-g-g-a"],"subtitle": "subtitles.minigames.music.g-g-g-a"}, 
+	"minigames.music.g-g-g-g": {"sounds": ["minigames/music/g-g-g-g"],"subtitle": "subtitles.minigames.music.g-g-g-g"}
+}
