@@ -68,6 +68,7 @@ server-join-commands:
   exampleFour:
     command-list:
       - mvtp {player} Minigames
+      - item replace entity {player} hotbar.4 with minecraft:grass_block
     permission: ""
     first-join-only: false
     delay: 0 
