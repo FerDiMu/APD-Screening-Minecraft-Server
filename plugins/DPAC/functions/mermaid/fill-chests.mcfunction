@@ -21,7 +21,7 @@ execute at @p run item replace block 173 67 -102 container.10 with minecraft:pum
 execute at @p run item replace block 173 67 -102 container.12 with minecraft:beetroot{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
 execute at @p run item replace block 173 67 -102 container.14 with minecraft:apple{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
 execute at @p run item replace block 173 67 -102 container.16 with minecraft:carrot{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
-execute at @p run item replace block 173 67 -102 container.18 with minecraft:bread{display:{Lore:['["",{"text":"Isla Piña","italic":true, "color":"gold"}]']}} 16
+execute at @p run item replace block 173 67 -102 container.18 with minecraft:bread{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
 execute at @p run item replace block 173 67 -102 container.20 with minecraft:cookie{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
 execute at @p run item replace block 173 67 -102 container.22 with minecraft:potato{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
 execute at @p run item replace block 173 67 -102 container.24 with minecraft:bone{display:{Lore:['["",{"text":"Isla Pina","italic":true, "color":"gold"}]']}} 16
