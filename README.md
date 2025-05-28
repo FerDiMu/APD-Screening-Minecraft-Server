@@ -2,11 +2,10 @@
 
 This project includes a Minecraft Server with a battery of minigames for the screening of Auditory Processing Disorder with preadolescents.
 
-The minigame battery is only available in Spanish and includes three different performance tests:
+The minigame battery is only available in Spanish and includes two different performance tests:
 
-- Temporal differentations between tones (Developed)
-- Speech-in-noise understanding (Developed)
-- Discrimination between similar word (Under development)
+- Tonal differences
+- Speech-in-noise understanding
 
 ## Installation
 
