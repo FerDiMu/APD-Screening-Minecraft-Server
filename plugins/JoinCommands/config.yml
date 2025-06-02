@@ -68,10 +68,11 @@ server-join-commands:
   exampleFour:
     command-list:
       - mvtp {player} Minigames
+      - clear {player}
       - item replace entity {player} hotbar.4 with minecraft:grass_block
     permission: ""
     first-join-only: false
-    delay: 0 
+    delay: 0
 
 # A command ID can be any valid YML section string, but they must all be different
 # To disable all world join commands, set the value to 'world-join-commands: {}'
