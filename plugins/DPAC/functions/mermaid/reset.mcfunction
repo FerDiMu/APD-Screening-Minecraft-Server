@@ -1,5 +1,6 @@
 execute at @p run gamerule sendCommandFeedback false
 execute at @p run time set day
+execute at @p run gamerule doDaylightCycle false
 execute at @p run weather clear 1000000
 npc select 414
 text clear
