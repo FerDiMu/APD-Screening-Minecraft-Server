@@ -3,7 +3,7 @@ Mermaid:
   min-players: 1
   max-players: 1
   waiting-time: 3
-  play-time: 600
+  play-time: 900
   finish-delay: 5
   active: true
   icon: STONE

@@ -70,6 +70,8 @@ server-join-commands:
       - mvtp {player} Minigames
       - clear {player}
       - item replace entity {player} hotbar.4 with minecraft:grass_block
+      - function join:clear_turotini
+      - function join:fill_chest
     permission: ""
     first-join-only: false
     delay: 0
