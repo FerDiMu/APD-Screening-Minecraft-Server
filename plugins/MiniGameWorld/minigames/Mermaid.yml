@@ -19,11 +19,7 @@ Mermaid:
     z: -33.854
     pitch: -5.0
     yaw: -19.0
-  tutorial:
-  - Estás jugando a Llegada al Archipiélago
-  - Utiliza el click derecho para hablar con la sirena Iara y ayúdala a conseguir
-    su objetivo
-  - ¡Buena suerte!
+  tutorial: null
   custom-data:
     chat: true
     score-notifying: true
