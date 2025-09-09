@@ -16,7 +16,7 @@ bedrock:
   # Generally, you should only uncomment and change this if you want to limit what IPs can connect to your server.
   #address: 0.0.0.0
   # The port that will listen for connections
-  port: 19132
+  port: 25565
   # Some hosting services change your Java port everytime you start the server and require the same port to be used for Bedrock.
   # This option makes the Bedrock port the same as the Java port every time you start the server.
   # This option is for the plugin version only.
@@ -108,7 +108,7 @@ forward-player-ping: false
 max-players: 100
 
 # If debug messages should be sent through console
-debug-mode: false
+debug-mode: true
 
 # Allow a fake cooldown indicator to be sent. Bedrock players otherwise do not see a cooldown as they still use 1.8 combat.
 # Please note: if the cooldown is enabled, some users may see a black box during the cooldown sequence, like below:
