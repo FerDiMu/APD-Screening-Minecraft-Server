@@ -661,4 +661,70 @@ texts:
         sound: minecraft:minigames.music.talk
         text: Puedes utilizar click izquierdo para abrir mi inventario
     npc: 548
+  '740':
+    messages:
+      '0':
+        sound: minecraft:minigames.music.capitana-reset-0
+        text: ¡Hola grumete cosguardo!
+      '11':
+        sound: minecraft:minigames.music.capitana-reset-11
+        text: ¡Mucha suerte!
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-10
+        - update_score cosguardo
+      '1':
+        sound: minecraft:minigames.music.capitana-reset-1
+        text: Bienvenido al Galeón Marisma, el más grande de los siete mares
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-0
+      '2':
+        sound: minecraft:minigames.music.capitana-reset-2
+        text: Como ya sabrás, vamos en búsqueda del mitológico Archipiélago Verdil
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-1
+      '3':
+        sound: minecraft:minigames.music.capitana-reset-3
+        text: Llevamos ya un par de días de travesía...
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-2
+      '4':
+        sound: minecraft:minigames.music.capitana-reset-4
+        text: Y el viaje se me está haciendo un poco largo
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-3
+      '5':
+        sound: minecraft:minigames.music.capitana-reset-5
+        text: ¿Por qué no me entretienes tocando alguna canción?
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-4
+      '6':
+        sound: minecraft:minigames.music.capitana-reset-6
+        text: 'Para empezar me gustaría escuchar una canción que tenga el patrón:
+          §cnota corta, nota larga, nota corta, nota larga'
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-5
+      '7':
+        sound: minecraft:minigames.music.capitana-reset-7
+        text: Puedes probar las canciones en el tocadicos que hay en el centro del
+          barco
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-6
+      '8':
+        sound: minecraft:minigames.music.capitana-reset-8
+        text: Para escuchar un disco, haz click derecho en el tocadiscos con el disco
+          en la mano
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-7
+      '9':
+        sound: minecraft:minigames.music.capitana-reset-9
+        text: Para quitar el disco del tocadiscos vuelve a hacer click derecho sobre
+          él
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-8
+      '10':
+        sound: minecraft:minigames.music.capitana-reset-10
+        text: Cuando tengas la canción, ponla en el tocadiscos que hay a mi lado
+        commands:
+        - execute run stopsound cosguardo * minecraft:minigames.music.capitana-reset-9
+    npc: 740
 dataVersion: 2

@@ -1,0 +1,40 @@
+Music:
+  title: music
+  min-players: 1
+  max-players: 1
+  waiting-time: 3
+  play-time: 600
+  finish-delay: 5
+  active: true
+  icon: STONE
+  view: true
+  scoreboard: true
+  instances: 4
+  instance-world: true
+  locations:
+  - ==: org.bukkit.Location
+    world: music_template
+    x: 57.0
+    y: 70.0
+    z: -58.0
+    pitch: 0.0
+    yaw: 0.0
+  tutorial:
+  - Estás jugando a La Travesía Pirata
+  - Utiliza el click derecho para hablar con la capitana y haz que su viaje sea más
+    ameno
+  - ¡Buena suerte!
+  custom-data:
+    chat: true
+    score-notifying: true
+    block-break: false
+    block-place: false
+    pvp: false
+    pve: false
+    inventory-save: true
+    minigame-respawn: true
+    live-gamemode: SURVIVAL
+    dead-gamemode: SPECTATOR
+    color: RESET
+    food-level-change: false
+    player-hurt: false

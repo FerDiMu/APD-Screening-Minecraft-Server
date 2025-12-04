@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-13 13:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-06-13 13:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-23 10:50:08 +0000"
@@ -20,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2025-05-23 10:50:59 +0000",
+      "minecraft:river": "2025-06-13 13:29:39 +0000",
       "minecraft:plains": "2025-05-23 10:46:12 +0000"
     },
     "done": false

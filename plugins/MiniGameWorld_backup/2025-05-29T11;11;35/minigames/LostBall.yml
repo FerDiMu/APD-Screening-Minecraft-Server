@@ -1,0 +1,40 @@
+LostBall:
+  title: lostball
+  min-players: 1
+  max-players: 1
+  waiting-time: 3
+  play-time: 1800
+  finish-delay: 3
+  active: true
+  icon: STONE
+  view: true
+  scoreboard: true
+  instances: 1
+  instance-world: false
+  locations:
+  - ==: org.bukkit.Location
+    world: Minigames
+    x: 0.0
+    y: 4.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  tutorial:
+  - Bienvenido al juego Atrapa al Ladron!
+  - Interactua con los NPCs usando click derecho y descubre la historia que esconde
+    este pueblo
+  - Buena suerte!
+  custom-data:
+    chat: true
+    score-notifying: true
+    block-break: false
+    block-place: false
+    pvp: false
+    pve: false
+    inventory-save: true
+    minigame-respawn: true
+    live-gamemode: SURVIVAL
+    dead-gamemode: SPECTATOR
+    color: RESET
+    food-level-change: false
+    player-hurt: false
