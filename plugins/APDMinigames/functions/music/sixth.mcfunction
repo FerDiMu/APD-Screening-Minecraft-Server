@@ -1,4 +1,4 @@
-npc select 19
+npc select Capitana
 text clear
 text delete
 text add Vaya, parece que llegamos a nuestro destino

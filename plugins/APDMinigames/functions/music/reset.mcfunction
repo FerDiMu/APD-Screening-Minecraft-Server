@@ -1,6 +1,6 @@
 execute at @p run gamerule sendCommandFeedback false
 execute at @p run weather clear 1000000
-npc select 19
+npc select Capitana
 text clear
 text delete
 &di
