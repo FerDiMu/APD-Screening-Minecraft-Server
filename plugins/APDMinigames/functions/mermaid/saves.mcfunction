@@ -1,2 +1,0 @@
-citizens save
-citizens reload
